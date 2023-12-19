@@ -27433,7 +27433,7 @@
           });
         },
         gn = {
-          name: { display: "OuldBelaidOussama" },
+          name: { display: "O.Belaid Oussama" },
           title: { display: "FullStack Developer" },
           buttons: [
             {
