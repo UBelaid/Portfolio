@@ -1,0 +1,24 @@
+Uri: https://www.adamalston.com/
+File Name: C:\Downloaded Web Sites\www.adamalston.com\index.htm
+Content Type: text/html
+
+Uri: https://www.adamalston.com/icons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\www.adamalston.com\icons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://www.adamalston.com/icons/favicon.ico
+File Name: C:\Downloaded Web Sites\www.adamalston.com\icons\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.adamalston.com/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\www.adamalston.com\manifest.webmanifest
+Content Type: application/octet-stream
+
+Uri: https://www.adamalston.com/static/css/main.7f0d8e49.css
+File Name: C:\Downloaded Web Sites\www.adamalston.com\static\css\main.7f0d8e49.css
+Content Type: text/css
+
+Uri: https://www.adamalston.com/static/js/main.94fb0415.js
+File Name: C:\Downloaded Web Sites\www.adamalston.com\static\js\main.94fb0415.js
+Content Type: application/javascript
+
