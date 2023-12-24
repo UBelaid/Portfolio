@@ -27455,7 +27455,7 @@
               display: "Resume",
               ariaLabel: "Resume in Google Drive (opens in new window)",
               icon: (0, r.jsx)(hn, {}),
-              href: "https://drive.google.com/file/d/1jCkhiSvIGSqwf1mo06iU-_1sd6wWSa5Y/view?usp=sharing",
+              href: "https://drive.google.com/file/d/1WwSW-wIvxhkkBik4FYefpsHndGuYYTcV/view?usp=sharing",
             },
             {
               name: "email",
